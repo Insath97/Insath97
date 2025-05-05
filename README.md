@@ -48,23 +48,6 @@ Passionate about building scalable, high-performance backend systems and cloud-n
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-## 🚀 Recent Projects
-
-### [E-Commerce Microservices Platform](https://github.com/your-repo)
-- Built with Spring Boot, React, and Kubernetes
-- Implemented event-driven architecture with Kafka
-- Achieved 99.99% uptime on AWS EKS
-
-### [AI-Powered SaaS API](https://github.com/your-repo)
-- Developed with Node.js, FastAPI, and MongoDB Atlas
-- Containerized with Docker and deployed on GCP
-- Handled 10K+ RPS with Redis caching
-
-## 📚 Currently Learning
-- Advanced Kubernetes patterns (Operators, Service Mesh)
-- WebAssembly for high-performance computing
-- Blockchain development with Solidity
-
 ## 📫 Let's Connect
 - **Professional Network**: [LinkedIn](https://www.linkedin.com/in/mohamed-insath90a40724a)
 - **Code & Contributions**: [GitHub](https://github.com/Insath97)
