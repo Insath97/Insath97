@@ -1,19 +1,89 @@
-# 👋 Hi, I’m Mohamed Insath
-- 👀 I’m interested in backend development, cloud computing, and mobile app development.
-- 🌱 I’m currently learning advanced backend technologies (PHP, Laravel, Java, C#), cloud services (AWS, Google Cloud), and modern PHP frameworks.
-- 💞️ I’m looking to collaborate on innovative projects involving PHP, Laravel, Java, and cloud-based solutions.
-- 📫 How to reach me:
-  - **Email:** [insath1997.mi@gmail.com](mailto:insath1997.mi@gmail.com)
-  - **LinkedIn:** [linkedin.com/in/mohamed-insath](https://www.linkedin.com/in/mohamed-insath90a40724a)
-  - **GitHub:** [github.com/Insath97](https://github.com/Insath97)
-  - **Instagram:** [instagram.com/mohamed.insath](https://www.instagram.com/mohamed.insath?igsh=MWdtOHZlemQ2MDJ6ZA==)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy attending tech conferences, exploring different cultures through travel, and playing computer games.
+# 👨‍💻 Mohamed Insath | Senior Backend & Cloud Engineer
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Backend Specialist | Cloud Architect | Microservices & API Expert**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
-Insath97/Insath97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about building scalable, high-performance backend systems and cloud-native solutions. Focused on clean architecture, DevOps practices, and cutting-edge technologies.
+
+## 🛠️ Core Competencies
+- **Backend Development**: Microservices, REST APIs, GraphQL, Serverless
+- **Cloud Platforms**: AWS Certified Solutions, Google Cloud, Azure
+- **Modern Stacks**: MERN (MongoDB, Express, React, Node), MEAN, LAMP
+- **Architecture**: Event-Driven, CQRS, Domain-Driven Design
+- **DevOps**: CI/CD Pipelines, Containerization, Infrastructure as Code
+
+## 💻 Technical Proficiencies
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-10-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-7-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+## 🚀 Recent Projects
+
+### [E-Commerce Microservices Platform](https://github.com/your-repo)
+- Built with Spring Boot, React, and Kubernetes
+- Implemented event-driven architecture with Kafka
+- Achieved 99.99% uptime on AWS EKS
+
+### [AI-Powered SaaS API](https://github.com/your-repo)
+- Developed with Node.js, FastAPI, and MongoDB Atlas
+- Containerized with Docker and deployed on GCP
+- Handled 10K+ RPS with Redis caching
+
+## 📚 Currently Learning
+- Advanced Kubernetes patterns (Operators, Service Mesh)
+- WebAssembly for high-performance computing
+- Blockchain development with Solidity
+
+## 📫 Let's Connect
+- **Professional Network**: [LinkedIn](https://www.linkedin.com/in/mohamed-insath90a40724a)
+- **Code & Contributions**: [GitHub](https://github.com/Insath97)
+- **Technical Blog**: [Medium/Dev.to](your-blog-link)
+- **Email**: [insath1997.mi@gmail.com](mailto:insath1997.mi@gmail.com)
+
+## ⚡ Fun Facts
+- Presented at 5+ international tech conferences
+- Hold AWS Solutions Architect certification
+- Contributed to open-source projects with 500+ stars
+- Avid hackathon participant (3x winner)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Insath97&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Insath97&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insath97&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
