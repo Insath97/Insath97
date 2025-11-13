@@ -1,5 +1,3 @@
-# 👨‍💻 Mohamed Insath | Senior Backend & Cloud Engineer
-
 # 👋 Hi, I’m Mohamed Insath
 - 👀 I’m interested in backend development, cloud computing, and mobile app development.
 - 🌱 I’m currently learning advanced backend technologies (PHP, Laravel, Java, C#), cloud services (AWS, Google Cloud), and modern PHP frameworks.
