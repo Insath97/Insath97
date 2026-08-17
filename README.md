@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:FF9900&height=220&section=header&text=Mohamed%20Insath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Mobile%20App%20Builder&descAlignY=52&descSize=17" width="100%"/>
+# Hi, I'm Mohamed Insath 👋
+### Full-Stack Engineer &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;|&nbsp; GAMER
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2C9CDB&center=true&vCenter=true&width=750&lines=Designing+APIs+with+Laravel%2C+Node.js+%26+FastAPI;Shipping+React+%2F+Next.js+frontends;Modeling+data+across+MySQL%2C+Postgres%2C+Mongo+%26+Redis;Deploying+with+Docker%2C+AWS%2C+GCP+%26+Vercel" alt="Typing SVG" />
 
@@ -10,9 +11,9 @@
 [![Gmail](https://img.shields.io/badge/-insath1997.mi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:insath1997.mi@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Insath97-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Insath97)
 
-</div>
+---
 
-<br>
+</div>
 
 ## 🧭 About Me
 
@@ -25,6 +26,7 @@ type Insath = {
   frontend: ["React.js", "Next.js", "Tailwind CSS", "Angular.js"];
   databases: ["MySQL", "PostgreSQL", "MongoDB", "Supabase", "Redis"];
   cloud: ["AWS", "Google Cloud", "DigitalOcean", "Docker", "Vercel"];
+  apis: ["REST", "GraphQL", "WebSocket", "gRPC"];
   currentlyExploring: ["Advanced cloud architecture", "Distributed systems", "Mobile app development"];
   openToCollaborate: true;
 };
@@ -75,6 +77,15 @@ type Insath = {
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**API Types & Tools**
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 **Cloud, DevOps & Hosting**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -98,8 +109,7 @@ type Insath = {
 
 ## 🚀 Featured Projects
 
-<!-- Replace these with your real repos — 3–4 strong projects read far better than a long list.
-     Format: | Project | Stack | What it does | -->
+<!-- Replace these with your real repos — 3–4 strong projects read far better than a long list. -->
 
 <div align="center">
 
@@ -130,13 +140,7 @@ type Insath = {
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Insath97&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<br>
+---
 
 ## 🤝 Let's Connect
 
@@ -148,7 +152,5 @@ type Insath = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed.insath)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Insath97&color=2C9CDB&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
