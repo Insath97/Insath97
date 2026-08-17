@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:FF9900&height=220&section=header&text=Mohamed%20Insath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Gamer&descAlignY=52&descSize=17" width="100%"/>
+
 # Hi, I'm Mohamed Insath 👋
-### Full-Stack Engineer &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;|&nbsp; GAMER
+### Full-Stack Engineer &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;|&nbsp; Gamer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2C9CDB&center=true&vCenter=true&width=750&lines=Designing+APIs+with+Laravel%2C+Node.js+%26+FastAPI;Shipping+React+%2F+Next.js+frontends;Modeling+data+across+MySQL%2C+Postgres%2C+Mongo+%26+Redis;Deploying+with+Docker%2C+AWS%2C+GCP+%26+Vercel" alt="Typing SVG" />
 
@@ -27,14 +29,16 @@ type Insath = {
   databases: ["MySQL", "PostgreSQL", "MongoDB", "Supabase", "Redis"];
   cloud: ["AWS", "Google Cloud", "DigitalOcean", "Docker", "Vercel"];
   apis: ["REST", "GraphQL", "WebSocket", "gRPC"];
-  currentlyExploring: ["Advanced cloud architecture", "Distributed systems", "Mobile app development"];
+  currentlyExploring: ["Advanced cloud architecture", "Distributed systems"];
+  hobbies: ["Gaming", "Traveling", "Tech conferences"];
   openToCollaborate: true;
 };
 ```
 
-- 👀 Interested in **backend engineering, cloud architecture, and mobile app development**
-- 🌱 Currently deepening skills in **cloud infrastructure (AWS / GCP), distributed systems, and mobile development**
+- 👀 Interested in **backend engineering, cloud architecture, and competitive gaming**
+- 🌱 Currently deepening skills in **cloud infrastructure (AWS / GCP) and distributed systems**
 - 💞️ Open to collaborating on **full-stack, API-driven, and cloud-native projects**
+- 🎮 When I'm not coding, you'll find me gaming — it's where I unwind and recharge
 - ⚡ Fun fact: tech conferences + travel + gaming = my reset button
 - 😄 Pronouns: **He/Him**
 
@@ -140,6 +144,14 @@ type Insath = {
 
 <br>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Insath97&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+<br>
+
 ---
 
 ## 🤝 Let's Connect
@@ -152,5 +164,7 @@ type Insath = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed.insath)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Insath97&color=2C9CDB&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
