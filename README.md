@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:FF9900&height=220&section=header&text=Mohamed%20Insath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Gamer&descAlignY=52&descSize=17" width="100%"/>
+
 # Hi, I'm Mohamed Insath 👋
 ### Full-Stack Engineer &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;|&nbsp; Gamer
 
@@ -127,15 +129,26 @@ type Insath = {
 
 <br>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="95%" alt="GitHub Metrics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Insath97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insath97&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Insath97&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Insath97&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
-> This image is generated and committed to this repo automatically once a day by a GitHub Action — see `.github/workflows/metrics.yml`. It doesn't depend on any live external service, so it can't go down or get rate-limited.
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Insath97&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
 <br>
 
@@ -152,4 +165,7 @@ type Insath = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Insath97&color=2C9CDB&style=for-the-badge&label=PROFILE+VIEWS)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
 </div>
+just preview this
