@@ -158,26 +158,15 @@ type Insath = {
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Insath97&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insath97&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Insath97&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Insath97&theme=redical&hide_border=true" width="95%"/>
+<img src="./github-metrics.svg" width="95%" alt="GitHub Metrics" />
 
 </div>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Insath97&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
+> Generated and committed to this repo automatically once a day by a GitHub Action (`.github/workflows/metrics.yml`) — includes activity, top languages, and achievements. No external live service, so it can't go down or get rate-limited.
 
 <br>
 
@@ -186,5 +175,17 @@ type Insath = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Insath97&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br><br>
+
+![Divider](https://img.shields.io/badge/─────────────────────────────-transparent?style=flat-square)
+
+### 💬 "Good code is its own best documentation."
+
+**Thanks for stopping by — let's build something great together.** 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-insath90a40724a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:insath1997.mi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Insath97)
 
 </div>
