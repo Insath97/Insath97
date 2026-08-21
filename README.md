@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF9900,50:2C5364,75:00C7B7,100:7B2FF7&height=230&section=header&text=Mohamed%20Insath&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Frontend-Capable&descAlignY=55&descSize=17" width="100%"/>
+# Hi, I'm Mohamed Insath 👋
+### Backend Engineer &nbsp;|&nbsp; Cloud &amp; DevOps &nbsp;|&nbsp; Frontend-Capable
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=FF9900&center=true&vCenter=true&width=800&lines=Building+APIs+with+Laravel%2C+Node.js+%26+FastAPI;Comfortable+shipping+React+%2F+Next.js+when+needed;Modeling+data+across+MySQL%2C+Postgres%2C+Mongo+%26+Redis;Deploying+with+Docker%2C+AWS+%26+GCP;Powered+by+coffee%2C+gaming+sessions+%26+curiosity" alt="Typing SVG" />
 
@@ -185,7 +186,5 @@ type Insath = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Insath97&color=FF9900&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,25:00C7B7,50:2C5364,75:FF9900,100:FF0080&height=120&section=footer" width="100%"/>
 
 </div>
